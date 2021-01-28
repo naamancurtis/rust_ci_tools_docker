@@ -1,7 +1,9 @@
 # Rust CI Tools
 
-This is intended to be a very lightweight image that contains a few tools
-pre-installed that might be of use within the CI pipeline. Currently it
+[Image location - Docker Hub](https://hub.docker.com/repository/docker/naamancurtis/rust_ci_tools)
+
+This is intended to be a utility image that contains a few tools
+pre-installed that might be of use for applications or crates built with Rust within the CI pipeline. Currently it
 includes:
 
 - Clippy
